@@ -46,11 +46,6 @@ consumer_secret="M81KvgaicyJIaQegdgXcdKDeZrSsJz4AVrGv3yoFwuItQQPMay"
 access_token="2591998746-Mx8ZHsXJHzIxAaD2IxYfmzYuL3pYNVnvWoHZgR5"
 access_token_secret="LJDvEa0jL7QJXxql0NVrULTAniLobe2TAAlnBdXRfm1xF"
 '''
-# New values
-consumer_key="ns8zwsqFLf1LmOuxvYiUdfxce"
-consumer_secret="4JHOGrEkoApDvjbrTiKCZPG6uSWTsLLVbsZpEpk5yhjeTmAO9J"
-access_token="1133420006115561472-lkyiJwlVDJFixPhOhCMxDogaZImC1c"
-access_token_secret="dEYTVtaAbH497oQ6JHrcUQosLXrVg93lSRP9CqEr00OPK"
 
 class TweetListener(StreamListener):
     """ A listener that handles tweets received from the Twitter stream.
